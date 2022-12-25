@@ -1,0 +1,83 @@
+
+/* top nav css */
+.topNav{
+    background-color: #efb058;
+    padding: 3px 0;
+}
+.topNav .time{
+    color:#543519;
+}
+
+.topNav .contact{
+    color:#492b15;
+}
+/* top nav css */
+
+
+.mynav li a{
+    font-size: 18px;
+    color:#003A65;
+    text-transform: uppercase;
+    padding: 0 25px!important;
+    display: inline-block;
+
+}
+
+
+
+.mynav li{
+    padding: 20px 0;
+}
+.mynav li{
+    background-color: #dd813f!important;
+    border-radius: 50px;
+}
+
+
+
+.mynav li.active{
+    background-color: #dd813f!important;
+}
+
+
+.mynav li a:hover{
+    text-decoration: underline;
+}
+
+
+/* banner css */
+.banner{
+    background-image: url('../Img/pexels-ray-piedra-1565982.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+.banner .banner-content{
+   padding-top:250px;
+}
+.banner .banner-content h1{
+    font-size: 60px;
+    font-weight: 700;
+    color: #dd813f;
+    text-transform: uppercase;
+}
+.banner .banner-content p{
+    font-size: 25px;
+    color: #dd813f;
+}
+.banner .banner-content a{
+    font-size: 18px;
+    font-weight: 300;
+    color:rgb(64, 29, 5);
+    background-color:  #dd813f;
+    text-decoration: none;
+    display: inline-block;
+    padding: 12px 25px;
+    border-radius: 10px;
+}
+.banner .banner-content a:hover{
+    background-color: #62E3E3;
+    color: #dd813f;
+}
+/* banner css */
